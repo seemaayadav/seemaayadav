@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @seemaayadav
+- 🌱 I’m currently learning Data Science
+- 📫 How to reach me seemayadav1511@gmail.com
